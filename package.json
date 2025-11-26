@@ -1,0 +1,24 @@
+{
+  "name": "challenge-amigo-secreto_esp-main",
+  "version": "1.0.0",
+  "description": "Este es un proyecto simple en JavaScript, HTML y CSS para gestionar sorteos de \"Amigo Secreto\" de manera interactiva y visual.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanPD03/challenge-amigo-secreto_esp-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JordanPD03/challenge-amigo-secreto_esp-main/issues"
+  },
+  "homepage": "https://github.com/JordanPD03/challenge-amigo-secreto_esp-main#readme",
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}
